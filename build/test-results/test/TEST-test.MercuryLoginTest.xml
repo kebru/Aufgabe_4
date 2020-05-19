@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.MercuryLoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-19T20:01:54" hostname="puri-IdeaPadS340" time="6.918">
+  <properties/>
+  <testcase name="logIn" classname="test.MercuryLoginTest" time="6.918"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 10998
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Mai 19, 2020 10:01:55 NACHM. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMATION: Detected dialect: W3C
+[1589918516,596][SEVERE]: Timed out receiving message from renderer: 0,100
+[1589918516,744][SEVERE]: Timed out receiving message from renderer: 0,100
+[1589918517,245][SEVERE]: Timed out receiving message from renderer: 0,100
+[1589918520,153][SEVERE]: Timed out receiving message from renderer: 0,100
+[1589918520,302][SEVERE]: Timed out receiving message from renderer: 0,100
+[1589918520,791][SEVERE]: Timed out receiving message from renderer: 0,100
+]]></system-err>
+</testsuite>
